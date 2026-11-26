@@ -4,4 +4,4 @@
 - [Part B](PartB/README.md): Python Hack assembler and sample `.asm` programs.
 - [Part C](PartC/README.md): keyboard-controlled box program, customized for roll number `2501739418`.
 
-The original repository's screenshots are in `screenshots/`; they show its K=25 example rather than the customized K=18 program.
+The original repository's screenshots are in `screenshots/`; they show its K=18.
